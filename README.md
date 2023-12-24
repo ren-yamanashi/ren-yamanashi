@@ -1,6 +1,6 @@
-## Hi there I`m Ren Yamanashi👋
+## Hi there I’m Ren Yamanashi👋
 
-I`m Web developer from Japan.
+I’m Web developer from Japan.
 
 - 🌱 I’m currently learning network,database and software design
 - 📫 How to reach me: [@yama_ren_tw](https://twitter.com/yama_ren_tw)
