@@ -3,6 +3,7 @@
 I’m Web developer from Japan.
 
 Start learning programming at 2021.
+
 Start working as an web engineer 2022.
 
 - 🌱 I’m currently learning network,database and software design
