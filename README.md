@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I`m Ren Yamanashi👋
 
-<!--
-**ren-yamanashi/ren-yamanashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m Web developer from Japan.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning network,database and software design
+- 📫 How to reach me: [@yama_ren_tw](https://twitter.com/yama_ren_tw)
+- ⚡ Fun fact: Japanese Anime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ko31">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ren-yamanashi&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/ko31">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-yamanashi" />
+</a>
