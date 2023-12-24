@@ -1,6 +1,6 @@
 ## Hi there I’m Ren Yamanashi👋
 
-I’m Web developer from Japan.
+I’m Web engineer from Japan.
 
 Start learning programming at 2021.
 
