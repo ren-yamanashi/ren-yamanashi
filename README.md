@@ -2,14 +2,6 @@
 
 I’m Web engineer from Japan.
 
-Start learning programming at 2021.
-
-Start working as an web engineer 2022.
-
-- 🌱 I’m currently learning network,database and software design
-- 📫 How to reach me: [@yama_ren_tw](https://twitter.com/yama_ren_tw)
-- ⚡ Fun fact: Japanese Anime
-
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ren-yamanashi&show_icons=true&theme=gotham" alt="github stats" width="50%"/>
 
