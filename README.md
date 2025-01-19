@@ -16,7 +16,3 @@ It provides best practice rules for the AWS CDK to help you write readable, main
 
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-yamanashi&layout=compact&theme=dark" alt="top lamguages" width="50%" >
-
-
-## Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ren-yamanashi&theme=dark" alt="github streaks" width="50%" >
