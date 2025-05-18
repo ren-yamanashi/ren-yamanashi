@@ -9,7 +9,7 @@ I’m Web engineer from Japan.
 This Tool is ESLint Plguin for AWS CDK.  
 It provides best practice rules for the AWS CDK to help you write readable, maintainable, and reusable code.
 
-## My article (japanese)
+## My Article (japanese)
 
 https://zenn.dev/yamaren
 
