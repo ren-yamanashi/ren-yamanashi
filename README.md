@@ -4,7 +4,7 @@ I’m Web engineer from Japan.
 
 ## My Dev Tools
 
-### [eslint-cdk-plugin](https://eslint-cdk-plugin.dev/)
+### [eslint-plugin-awscdk](https://eslint-plugin-awscdk.dev/)
 
 This Tool is ESLint Plguin for AWS CDK.  
 It provides best practice rules for the AWS CDK to help you write readable, maintainable, and reusable code.
