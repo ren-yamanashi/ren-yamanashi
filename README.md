@@ -17,6 +17,6 @@ I’m web engineer from Japan.
 
 ### [awscdk-lint](https://awscdk-lint.dev/)
 
-This tool is Lint plguin for AWS CDK (Oxlint and ESLint)\  
+This tool is Lint plguin for AWS CDK (Oxlint and ESLint)  
 It provides best practice rules for the AWS CDK to help you write readable, maintainable, and reusable code.
 
